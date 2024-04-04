@@ -106,7 +106,7 @@
         </value>
         <value name="AMOUNT">
           <shadow type="math_number" id="ml)25~7^q}3I9}vjf:%K">
-            <field name="NUM">0.35</field>
+            <field name="NUM">0.05</field>
           </shadow>
           <block type="variables_get" id="dqgh]-#UbF{%k/q;?oQ(">
             <field name="VAR" id="~XMeLFy`ErPgoViYdCsD" variabletype="">Stake</field>
