@@ -29,7 +29,7 @@
         <field name="VAR" id="!sPpkT(-Md2E|~5Tg7SM" variabletype="">Win amount</field>
         <value name="VALUE">
           <block type="math_number" id="Zsl_rjjd}^pUN]jmzSQy">
-            <field name="NUM">1</field>
+            <field name="NUM">0.05</field>
           </block>
         </value>
         <next>
@@ -101,12 +101,12 @@
         <field name="SECONDBARRIEROFFSETTYPE_LIST">-</field>
         <value name="DURATION">
           <shadow type="math_number" id="GQNA129BAV@8f#u;YJ5`">
-            <field name="NUM">2</field>
+            <field name="NUM">0.05</field>
           </shadow>
         </value>
         <value name="AMOUNT">
           <shadow type="math_number" id="ml)25~7^q}3I9}vjf:%K">
-            <field name="NUM">0.35</field>
+            <field name="NUM">0.05</field>
           </shadow>
           <block type="variables_get" id="dqgh]-#UbF{%k/q;?oQ(">
             <field name="VAR" id="~XMeLFy`ErPgoViYdCsD" variabletype="">Stake</field>
@@ -114,7 +114,7 @@
         </value>
         <value name="PREDICTION">
           <shadow type="math_number" id="[/,9KR23!Q-?9.7D4Z]k">
-            <field name="NUM">1</field>
+            <field name="NUM">0.05</field>
           </shadow>
         </value>
       </block>
@@ -134,7 +134,7 @@
             </value>
             <value name="AT">
               <block type="math_number" id="%(H|B:JUx2t).V|:GZq#">
-                <field name="NUM">1</field>
+                <field name="NUM">0.05</field>
               </block>
             </value>
           </block>
@@ -152,7 +152,7 @@
                 </value>
                 <value name="AT">
                   <block type="math_number" id="t#[eX5uA$aw5:GV#)9@o">
-                    <field name="NUM">2</field>
+                    <field name="NUM">0.05</field>
                   </block>
                 </value>
               </block>
@@ -170,7 +170,7 @@
                     </value>
                     <value name="AT">
                       <block type="math_number" id="MM2p|/!#=nw1:VKd]7XQ">
-                        <field name="NUM">1</field>
+                        <field name="NUM">0.05</field>
                       </block>
                     </value>
                   </block>
@@ -188,7 +188,7 @@
                         </value>
                         <value name="AT">
                           <block type="math_number" id="|qqS?k`ch[OTYZ(=ebwB">
-                            <field name="NUM">2</field>
+                            <field name="NUM">0.05</field>
                           </block>
                         </value>
                       </block>
@@ -356,7 +356,7 @@
             <field name="VAR" id="~XMeLFy`ErPgoViYdCsD" variabletype="">Stake</field>
             <value name="DELTA">
               <shadow type="math_number" id="k]*2(8-Z|||mZLBaA;$c">
-                <field name="NUM">1</field>
+                <field name="NUM">0.05</field>
               </shadow>
               <block type="math_single" id="O]D)t)@,O!71TG_prr$s">
                 <field name="OP">ABS</field>
@@ -376,7 +376,7 @@
                     </value>
                     <value name="B">
                       <shadow type="math_number" id="~-2WGSRw==nqlKc_R$=q">
-                        <field name="NUM">1</field>
+                        <field name="NUM">0.05</field>
                       </shadow>
                       <block type="variables_get" id="H01v+t:u;/lJM_u-!De0">
                         <field name="VAR" id="k}Yy=$1ttwy4|P3C?c2(" variabletype="">martingle</field>
@@ -677,7 +677,7 @@
                     </value>
                     <value name="B">
                       <block type="math_number" id="`#X0sR9w}ie[L^^w%Ph2">
-                        <field name="NUM">1</field>
+                        <field name="NUM">0.05</field>
                       </block>
                     </value>
                   </block>
@@ -691,7 +691,7 @@
                         <field name="PROPERTY">EVEN</field>
                         <value name="NUMBER_TO_CHECK">
                           <shadow type="math_number" id="gHelUnAo4~^Ve$!clF2R">
-                            <field name="NUM">0</field>
+                            <field name="NUM">2</field>
                           </shadow>
                           <block type="variables_get" id="lRpX-F8!{6_yl-H6R]eU">
                             <field name="VAR" id="PKB=x0wNz#+(C}b.||Ax" variabletype="">Digit 1</field>
